@@ -2,7 +2,7 @@ name: Release OTLP
 
 on:
   push:
-    tags: ["v*"]
+    tags: ["test-v*"]
 
 jobs:
   release:
